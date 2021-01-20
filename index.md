@@ -12,8 +12,8 @@ I was born in a small town called [levin](https://www.google.co.uk/maps/place/Le
 - Swimming [total immersion changed my swimming world](https://www.totalimmersion.co.uk/)
 - Playing the guitar
 
-Today, with the help of the awesome [RepoRobot](https://github.com/jlord/reporobot) I completed the [jlord git-it tutorial](https://github.com/jlord/git-it-electron)
-
 **A moment in time:**
+
+Today, with the help of the awesome [RepoRobot](https://github.com/jlord/reporobot) I completed the [jlord git-it tutorial](https://github.com/jlord/git-it-electron)
 
 ![A Patchwork GreyWidget](./patchwork.jpg)
