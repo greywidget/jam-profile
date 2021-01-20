@@ -16,4 +16,4 @@ I was born in a small town called [levin](https://www.google.co.uk/maps/place/Le
 
 Today, with the help of the awesome [RepoRobot](https://github.com/jlord/reporobot) I completed the [jlord git-it tutorial](https://github.com/jlord/git-it-electron)
 
-![A Patchwork GreyWidget](./patchwork.jpg)
+![A Patchwork GreyWidget](./patchwork.png)
